@@ -1,0 +1,7 @@
+{
+  "name": "Pipo Educa - Método NeuroOctoMusical",
+  "description": "Página oficial do Método NeuroOctoMusical™ - Alfabetização infantil leve, musical e divertida com o Professor Pipo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
